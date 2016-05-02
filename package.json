@@ -4,5 +4,8 @@
   "description": "boilerplate for FEE spring class",
   "scripts": {
     "watch": "sass --watch sass/main.sass:styles/main.css"
+  },
+  "dependencies": {
+    "jquery": "^1.12.3"
   }
 }
