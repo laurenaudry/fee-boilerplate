@@ -1,8 +1,9 @@
-# FEE boilerplate
-Here is the folders/files for starting out new assignments in FEE for the spring 2016 class
+## Getting started
+- Please make sure [Sass is installed](http://sass-lang.com/install)
+- Please make sure [browserify is installed globally](http://browserify.org/#install)
+- Please make sure [watchify is installed](https://github.com/substack/watchify)
+`$ npm install`
 
-## Setup
-- `npm install`
-
-## Development
-- `npm run watch`
+## Working with all of our build scripts
+Please use _npm_ script
+`$ npm run watch`
