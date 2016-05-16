@@ -5,5 +5,9 @@
 `$ npm install`
 
 ## Working with all of our build scripts
-Please use _npm_ script
+Please use the _npm_ script
 `$ npm run watch`
+
+## Testing the app
+Please use the _npm_ script
+`$ npm run test`
